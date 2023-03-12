@@ -1,6 +1,7 @@
 # Survival-Analysis-with-R
 
 The Lung Dataset
+
 I use the lung dataset available from the survival package survival. The data contain subjects with advanced lung cancer from the North Central Cancer Treatment Group. It includes the 10 following variables:
 
 - inst: Institution code
