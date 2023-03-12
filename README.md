@@ -1,10 +1,10 @@
 # Survival-Analysis-with-R
 
-##The Lung Dataset
+The Lung Dataset
 I use the lung dataset available from the survival package survival. The data contain subjects with advanced lung cancer from the North Central Cancer Treatment Group. It includes the 10 following variables:
 
-inst: Institution code
-time: Survival time in days
+- inst: Institution code
+- time: Survival time in days
 status: censoring status 1=censored, 2=dead
 age: Age in years
 sex: Male=1 Female=2
